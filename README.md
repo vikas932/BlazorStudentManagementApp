@@ -8,7 +8,7 @@ Architecture
 
 Local Setup
 
-Set Start-up project order as follows
+Set Start-up project order as follows and run the solution
   1. StudentInformation.Api
   2. StudentInformation.Web
   3. StudentInformation.Models
