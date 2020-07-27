@@ -1,0 +1,7 @@
+D:\Projects\BlazorApp\BlazorApp\StudentInformation.Models\bin\Debug\netstandard2.0\StudentInformation.Models.deps.json
+D:\Projects\BlazorApp\BlazorApp\StudentInformation.Models\bin\Debug\netstandard2.0\StudentInformation.Models.dll
+D:\Projects\BlazorApp\BlazorApp\StudentInformation.Models\bin\Debug\netstandard2.0\StudentInformation.Models.pdb
+D:\Projects\BlazorApp\BlazorApp\StudentInformation.Models\obj\Debug\netstandard2.0\StudentInformation.Models.AssemblyInfoInputs.cache
+D:\Projects\BlazorApp\BlazorApp\StudentInformation.Models\obj\Debug\netstandard2.0\StudentInformation.Models.AssemblyInfo.cs
+D:\Projects\BlazorApp\BlazorApp\StudentInformation.Models\obj\Debug\netstandard2.0\StudentInformation.Models.dll
+D:\Projects\BlazorApp\BlazorApp\StudentInformation.Models\obj\Debug\netstandard2.0\StudentInformation.Models.pdb

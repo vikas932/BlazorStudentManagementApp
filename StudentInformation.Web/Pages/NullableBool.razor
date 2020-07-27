@@ -1,0 +1,12 @@
+﻿@page "/Nullablebool"
+@inherits NullableBoolBase
+<h3>NullableBool</h3>
+
+
+<select class="form-control1" @bind ="SelectedItems">
+        @foreach (var item in SelectedItems)
+        {
+            <option value="@item.blValue">@item.Text</option>
+        }
+</select>
+
